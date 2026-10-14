@@ -1,0 +1,4 @@
+:HL["/chanjiubing/_next/static/chunks/08z-1umo9m-x4.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"detail","h":96,"c":"$Q2"}]]
+0:{"b":"3_FHP3kUKNH6oBem3dNmQ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

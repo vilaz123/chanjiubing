@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect x="4" y="4" width="120" height="120" rx="28" fill="#FF5C8A" stroke="#1F2430" stroke-width="7"/>
+  <text x="64" y="66" font-size="56" font-weight="900" text-anchor="middle" dominant-baseline="central" font-family="PingFang SC, Microsoft YaHei, sans-serif" fill="#FFD93D">馋</text>
+  <circle cx="100" cy="94" r="14" fill="#FFD93D" stroke="#1F2430" stroke-width="5"/>
+  <text x="100" y="95" font-size="16" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" fill="#1F2430">🚀</text>
+</svg>
